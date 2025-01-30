@@ -78,6 +78,16 @@ function renderLinks(links) {
 }
 ```
 
+#### New Feature
+
+---
+
+I added new features and modified some codes. Some of them are:
+
+- Button changes when hovering over the button
+- Adding "https" automatically to help users mark links
+- And other minor changes, such as size, color, and text
+
 ### Acknowledgement
 
 ---
