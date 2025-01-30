@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  min-width: 400px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #5f9341;
+}
+
+button {
+  margin-top: 5px;
+  padding: 10px 20px;
+  border: 1px solid #5f9341;
+  font-weight: bold;
+  color: #fff;
+  background-color: #5f9341;
+}
+
+button:hover{
+  background-color: #487e29;
+  cursor: pointer;
+}
+
+#delete-btn{
+  color: #5f9341;
+  background-color: #fff;
+}
+
+#delete-btn:hover{
+  color: #fff;
+  background-color: #487e29;
+  cursor: pointer;
+}
+
+ul {
+margin-top: 20px;
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+li a {
+  color: #5f9341;
+}
+
+.credit-text , .credit-text a{
+  color: #5f9341;
+  text-align: center;
+}
+
+#websaver-credit{
+  font-style: italic;
+  font-size: 10px;
+}
+
+#scrimba-credit{
+  margin-bottom: -10px;
+}
