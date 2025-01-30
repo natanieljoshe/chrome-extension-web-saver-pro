@@ -1,5 +1,7 @@
 # Web Saver Pro
 
+![](./preview/Banner.jpg)
+
 ### _Chrome Extension to Organize Website Links_
 
 ---
@@ -77,5 +79,7 @@ function renderLinks(links) {
 ```
 
 ### Acknowledgement
+
+---
 
 Thanks to scrimba.com for helping people learn programming!
