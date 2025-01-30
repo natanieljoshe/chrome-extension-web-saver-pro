@@ -78,7 +78,7 @@ function renderLinks(links) {
 }
 ```
 
-#### New Feature
+### New Feature
 
 ---
 
